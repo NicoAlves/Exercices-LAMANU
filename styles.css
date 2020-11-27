@@ -1,0 +1,21 @@
+.custom-card{
+    border: none!important;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.2);
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+}
+
+.bg-grey{
+    background-color: rgba(157, 155, 155, 0.1);
+}
+
+.col-lg-3{
+    padding: 0!important;
+}
+
+.container-medium{
+    margin-right: 15%;
+    margin-left: 15%;
+
+}
